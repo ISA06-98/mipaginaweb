@@ -1,0 +1,16 @@
+div{
+    color: brown;
+    background-color: blue;
+    width: max-content;
+    height: 15px;
+}
+p{
+    background-color: blueviolet;
+    width: min-content;
+    height: 15px;
+}
+a{
+    background-color: brown;
+    width: max-content;
+    height: 20px;
+} 

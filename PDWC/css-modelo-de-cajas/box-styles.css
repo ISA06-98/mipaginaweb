@@ -1,0 +1,15 @@
+h1,
+p,
+div {
+    background-color: blueviolet;
+    color:aquamarine; 
+}
+em,
+strong,
+span {
+    background-color: beige;
+}
+
+.parrafo1 {
+    color:brown,  
+}
